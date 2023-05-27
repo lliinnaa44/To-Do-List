@@ -33,24 +33,24 @@ The main goals of the Todo App are as follows:
 Here are some screenshots of the Todo App to provide a visual representation:
 
 ### Login  
-![Image](<img width="1280" alt="login" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/85fe1052-dae5-45b5-a8c9-8350cc4668b7">
-)
+<img width="1280" alt="login" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/3e28f39f-d921-417f-87c5-880667051c32">
+
 
 ### Sign up  
-![Image](<img width="1280" alt="signup" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/2a4198b9-ece1-4e8e-9b86-2da99e47789d">
-)
+<img width="1280" alt="signup" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f9394d6a-80de-4f31-8608-e9acab2c3fef">
+
 
 ### Todo list  
-![Image](<img width="1280" alt="todolist" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/4eb28e1a-c5b5-42e9-888a-17b5d89ceb5b">
-)
+<img width="1280" alt="todolist" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/d7f74427-b2fe-40ec-aa1c-59310408a9b0">
+
 
 ### Editing   
-![Image](<img width="1280" alt="ed" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/fc2f699c-1bd1-4dfb-a4d5-12f86c6c3dda">
-)
+<img width="1280" alt="ed" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f218e3f7-ddef-4725-846c-ec8f5e0ba6f6">
+
 
 ### Deleting
-![Image](<img width="1280" alt="del" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f386e9c6-1506-419e-ad28-75dce9d4b240">
-)
+<img width="1280" alt="del" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/9cafd53c-09cb-4952-bda2-33a24290f33e">
+
 
 
 ## Underlying Technologies
