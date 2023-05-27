@@ -43,6 +43,7 @@ Here are some screenshots of the Todo App to provide a visual representation:
 ### Todo list Empty 
 <img width="1280" alt="todo" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/400a23bd-bc60-48c4-87ae-3affe043507b">
 
+
 ### Todo list Filled
 <img width="1280" alt="todo list filled" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/0f68de57-b88e-4867-8e47-171c8ff0988b">
 
@@ -52,7 +53,8 @@ Here are some screenshots of the Todo App to provide a visual representation:
 <img width="1280" alt="ed" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f218e3f7-ddef-4725-846c-ec8f5e0ba6f6">
 
 ### Checkbox
-<img width="1280" alt="che" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/38583018-8b75-47d6-9839-4916dd95d5df">
+<img width="1280" alt="Screenshot 1444-11-07 at 8 02 41 PM" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/6dc817f3-010f-4cbf-a3cb-60d79f0488cb">
+
 
 
 
