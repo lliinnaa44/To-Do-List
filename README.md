@@ -40,12 +40,20 @@ Here are some screenshots of the Todo App to provide a visual representation:
 <img width="1280" alt="signup" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f9394d6a-80de-4f31-8608-e9acab2c3fef">
 
 
-### Todo list  
-<img width="1280" alt="todolist" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/d7f74427-b2fe-40ec-aa1c-59310408a9b0">
+### Todo list Empty 
+<img width="1280" alt="todo" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/400a23bd-bc60-48c4-87ae-3affe043507b">
+
+### Todo list Filled
+<img width="1280" alt="todo list filled" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/0f68de57-b88e-4867-8e47-171c8ff0988b">
+
 
 
 ### Editing   
 <img width="1280" alt="ed" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/f218e3f7-ddef-4725-846c-ec8f5e0ba6f6">
+
+### Checkbox
+<img width="1280" alt="che" src="https://github.com/lliinnaa44/To-Do-List/assets/134740859/38583018-8b75-47d6-9839-4916dd95d5df">
+
 
 
 ### Deleting
