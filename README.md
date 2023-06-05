@@ -79,7 +79,8 @@ The Todo App utilizes the following technologies:
 
 The user interaction in the Todo App follows a structured flow to ensure a smooth experience. The following flowchart illustrates the complete user journey through using the application:
 
-![User Interaction Flowchart](<insert link to the flowchart image>)
+![User Interaction Flowchart] ![IMG_2786](https://github.com/lliinnaa44/To-Do-List/assets/134740859/6682bb42-8386-42ff-bec1-b8e2f3f147cb)
+
 
 The flowchart provides a visual representation of the steps involved in using the Todo App, including user registration, login, task management, and logout. It demonstrates how users can interact with the application and the various paths they can take.
 
@@ -87,3 +88,4 @@ The flowchart provides a visual representation of the steps involved in using th
 ## Conclusion
 
 This project report has provided an overview of the Todo App, including its goals, features, underlying technologies, and user interaction. By understanding the system's components and user journey, readers can gain a comprehensive understanding of the application's functionality and architecture.
+## Lina Alhumaydhi and Norah Alqahtani
